@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKWORDS", "IKWORDS\IKWORDS.csproj", "{D752E7F8-10C5-4CFC-954E-2D3E70EB1242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D752E7F8-10C5-4CFC-954E-2D3E70EB1242}.Debug|x64.ActiveCfg = Debug|x64
+		{D752E7F8-10C5-4CFC-954E-2D3E70EB1242}.Debug|x64.Build.0 = Debug|x64
+		{D752E7F8-10C5-4CFC-954E-2D3E70EB1242}.Release|x64.ActiveCfg = Release|x64
+		{D752E7F8-10C5-4CFC-954E-2D3E70EB1242}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB15158-5D52-418D-ABB4-AF869423D588}
+	EndGlobalSection
+EndGlobal
